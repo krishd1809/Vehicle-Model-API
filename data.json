@@ -310,5 +310,15 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
 
     },
+     {
+        "id":33,
+        "companyName": "Hyundai ",
+        "category": "car",
+        "modelName":"Sk50",
+        "mileage": "17.7kmpl",
+        "approx.Cost": "9.43-15.52 lakh Rs",
+        "website":"https://www.carwale.com/hyundai-cars/verna/"
+
+    },
 
 ]
