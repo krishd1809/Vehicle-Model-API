@@ -571,6 +571,16 @@
         "milage" : " 40.8 Kmpl",
         "approx .Cost" : "1.47 - 1.63 Lakh",
         "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz
-    }
+    },
+
+  {
+        "id":57,
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"s 100RR",
+        "mileage": "32kmpl",
+        "approx.Cost": "18-22 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/s1000rr/"
+    },
 
 ]
