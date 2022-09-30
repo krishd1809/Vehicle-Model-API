@@ -415,7 +415,7 @@
         "companyName": "Nano",
         "category": "Car",
         "modelName":"tata",
-        "mileage": "36.0 kmpl,
+        "mileage": "36.0 kmpl",
         "approx.Cost": "3 lakhs",
         "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
    },
@@ -437,10 +437,7 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
-
-
-   },
- 
+ },
    {
         "id":45,
         "companyName": "Mahindra",
@@ -506,18 +503,7 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "3.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m3"
-   },
-   
-  {
-       "id":40,
-        "companyName": "Fortuner LEGENDER",
-        "category": "Car",
-        "modelName":"LEGENDER",
-        "mileage": "11.15kmpl",
-        "approx.Cost": "45 LAKH Rs",
-        "website":"https://www.cardekho.com/Fortuner/LEGENDER"
-   } 
-
+   } ,
   {
        "id":52,
         "companyName": "Jaguar Land Rover",
