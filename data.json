@@ -184,18 +184,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
    {
-
-       "id":19,
-        "companyName": "Toyota",
-        "category": "Car",
-        "modelName":"2023 GR Supra",
-        "mileage": "11 kmpl",
-        "approx.Cost": "36 lakhs",
-        "website":"https://www.toyota.com/grsupra/"
-    },
-    {
-
-        "id":20,
+        "id":19,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -204,7 +193,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":21,
+        "id":20,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -213,7 +202,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":22,
+        "id":21,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -221,7 +210,16 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    }
-   
+    ,
+      {
+        "id":22,
+        "companyName": "KTM",
+        "category": "BIKE",
+        "modelName":"KTM-RC 200",
+        "mileage": "30-35 kmpl",
+        "approx.Cost": "Rs.2.04Lankh - 2.17 Lakh*",
+        "website":"https://www.bikedekho.com/ktm/rc-200"
+   }
 
 
 ]
