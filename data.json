@@ -123,7 +123,15 @@
         "approx.Cost": "2.30 Crore",
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
-    
+    {
+        "id":13,
+        "companyName": "Mahindra",
+        "category": "car",
+        "modelName":"XUV700 ",
+        "mileage": "27kmpl",
+        "approx.Cost": "13.45 lack onwards",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+    },
     
     {
         "id":14,
@@ -175,6 +183,7 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+
    {
        "id":19,
         "companyName": "toyota",
@@ -230,6 +239,7 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
+
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -248,29 +258,33 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-    {
+   {
         "id":27,
-        "companyName": "Tesla",
+        "companyName": "rolls royce",
         "category": "Car",
-        "modelName":"Tesla model X",
-        "mileage": "35.418 milespl",
-        "approx.Cost": "2.6CrRs",
-        "website":"https://www.tesla.com/modelx"
+        "modelName":" phantom",
+        "mileage": "9.8 kmpl",
+        "approx.Cost": "Rs 8.99 - 10.45 crore",
+        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
    },
    {
-        "id":28,
-        "companyName": "Mahindra",
-        "category": "car",
-        "modelName":"XUV700 ",
-        "mileage": "27kmpl",
-        "approx.Cost": "13.45 lack onwards",
-        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    }
-
-
-   
-
-
+       "id":28,
+        "companyName": "TESLA",
+        "category": "Car",
+        "modelName":"C8",
+        "mileage": "348 miles",
+        "approx.Cost": "14 lakhsRs",
+        "website":"https://droom.in/tesla-cars/model-x"
+   },
+    {
+       "id":29,
+        "companyName": "Corvette",
+        "category": "Car",
+        "modelName":"x",
+        "mileage": "27 miles per lit",
+        "approx.Cost": "50 lakhsRs",
+        "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
+   }
 
 
 ]
