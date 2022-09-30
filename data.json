@@ -184,6 +184,7 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+   
 
     
     {
@@ -258,8 +259,8 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
-   }
-    ,
+   },
+    
       {
         "id":22,
         "companyName": "KTM",
@@ -268,9 +269,7 @@
         "mileage": "30-35 kmpl",
         "approx.Cost": "Rs.2.04Lankh - 2.17 Lakh*",
         "website":"https://www.bikedekho.com/ktm/rc-200"
-   }
-=======
-   },
+      },
     {
         "id":28,
         "companyName": "Maruti 800",
@@ -381,6 +380,7 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
    {
+
         "id":40,
         "companyName": "Audi",
         "category": "Car",
@@ -389,6 +389,17 @@
         "approx.Cost": "1.68 CrRs",
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
+     {
+
+        "id":30,
+        "companyName": "Corvette",
+        "category": "Car",
+        "modelName":"c8",
+        "mileage": "27 kmpl",
+        "approx.Cost": "50 lacks Rs.",
+        "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
+   }
+
    {
         "id":41,
         "companyName": "MG Hector",
