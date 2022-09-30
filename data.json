@@ -151,7 +151,16 @@
       "approx.Cost": "29.15 Lakh",
       "website":"https://www.carwale.com/mahindra-cars/xuv700/"
   },
-
+    
+    {
+        "id":15,
+        "companyName": "maruti",
+        "category": "car",
+        "modelName":"800",
+        "mileage": "12kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
   
   {
       "id":16,
@@ -265,9 +274,7 @@
       "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
       "website":"https://www.cardekho.com/kia/seltos"
  },
-
-  
-    {
+     {
       "id":22,
       "companyName": "KTM",
       "category": "BIKE",
@@ -358,13 +365,126 @@
       "approx.Cost": "Rs.3.50 Cr",
       "website":"https://www.cardekho.com/ferrari/portofino"
  },
+    {
+        "id":17,
+        "companyName": "Shelby",
+        "category": "Car",
+        "modelName":"GT500",
+        "mileage": "12-18 mpg",
+        "approx.Cost": "2 Cr",
+        "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
+   },
+
+   {
+        "id":18,
+        "companyName": "BMW",
+        "category": "Car",
+        "modelName":"M5",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.74 CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   },
+   {
+       "id":19,
+        "companyName": "toyota",
+        "category": "Car",
+        "modelName":"ss",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.1 CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   }, 
+   {
+       "id":20,
+        "companyName": "MERCEDES-BENZ",
+        "category": "car",
+        "modelName":"GLA",
+        "mileage": "13 TO 17 kmpl",
+        "approx.Cost": "48.90 LAKH",
+        "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
+   },
+   {
+        "id":21,
+        "companyName": "Toyota",
+        "category": "Car",
+        "modelName":"2023 GR Supra",
+        "mileage": "11 kmpl",
+        "approx.Cost": "36 lakhs",
+        "website":"https://www.toyota.com/grsupra/"
+    },
+    {
+
+        "id":22,
+        "companyName": "Volkswagen",
+        "category": "Car",
+        "modelName":"Taigun",
+        "mileage": "18 kmpl",
+        "approx.Cost": "20 lakhs",
+        "website":"https://www.volkswagen.co.in/en/models/taigun.html"
+   },
+   {
+        "id":23,
+        "companyName": "Tata",
+        "category": "Car",
+        "modelName":"nano",
+        "mileage": "25.39kmpl",
+        "approx.Cost": "2,05 Lakh",
+        "website":"https://www.carwale.com/tata-cars/nano/"
+   },
+   {
+        "id":24,
+        "companyName": "Kia",
+        "category": "Car",
+        "modelName":"Seltos",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+        "website":"https://www.cardekho.com/kia/seltos"
+   },
+   {
+       "id":25,
+        "companyName": "Aston Martin",
+        "category": "Car",
+        "modelName":"Valkyrie",
+        "mileage": "9-12kmpl",
+        "approx.Cost": "3.2 CrRs",
+        "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
+   },
+   {
+        "id":26,
+        "companyName": "bmw",
+        "category": "Car",
+        "modelName":"A3",
+        "mileage": "9.18kmpl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   },
+    {
+        "id":27,
+        "companyName": "Tesla",
+        "category": "Car",
+        "modelName":"Tesla model X",
+        "mileage": "35.418 milespl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.tesla.com/modelx"
+   },
+   {
+        "id":28,
+        "companyName": "Mahindra",
+        "category": "car",
+        "modelName":"XUV700 ",
+        "mileage": "27kmpl",
+        "approx.Cost": "13.45 lack onwards",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+    },
   
-  
-
- 
-
-
-
+    {
+        "id":29,
+        "companyName": "Lamborghini",
+        "category": "car",
+        "modelName":"URUS ",
+        "mileage": "7.87kmpl",
+        "approx.Cost": "3.15 crores onwards",
+        "website":"https:https://www.lamborghini.com/en-en"
+    },
 
  {
      "id":28,
@@ -457,7 +577,6 @@
       "approx.Cost": "3 lakhs",
       "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
  },
-
   {
       "id":43,
       "companyName": "maruti suzuki",
@@ -475,7 +594,7 @@
       "mileage": "9.12kmpl",
       "approx.Cost": "1.74 CrRs",
       "website":"https://www.cardekho.com/tata/harrier"
-
+ 
 
  },
 
