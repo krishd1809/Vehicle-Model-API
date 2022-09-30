@@ -352,5 +352,14 @@
         "mileage": "38 kmpl",
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
-   }
+   },
+{
+  "id": 37,
+    "companyName": "Ford",
+    "category": "Car",
+    "modelName": "Ford Aspire",
+    "mileage": "20.4 kmpl",
+    "approx.Cost": "7.28 lakhs",
+    "website": " https://www.inlandempirefordsales.com/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7PMnJYUGedQlDZMuegeCUT_0OBLPLbHNo2RwwnRuMIpU0nEpukOaBoCKlIQAvD_BwE"
+},
 ]
