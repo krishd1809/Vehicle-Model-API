@@ -343,6 +343,23 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.tesla.com/modelx"
    },
+     {
+        "id":27,
+        "companyName": "FERRARI",
+        "category": "Car",
+        "modelName":" Portofino",
+        "mileage": "9.0 kmpl",
+        "approx.Cost": "Rs.3.50 Cr,
+        "website":"https://www.cardekho.com/ferrari/portofino"
+   },
+    
+    
+
+   
+
+
+
+
    {
        "id":36,
         "companyName": "TESLA",
