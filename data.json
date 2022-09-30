@@ -884,6 +884,16 @@
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
    },
+{
+  "id": 37,
+    "companyName": "Ford",
+    "category": "Car",
+    "modelName": "Ford Aspire",
+    "mileage": "20.4 kmpl",
+    "approx.Cost": "7.28 lakhs",
+    "website": " https://www.inlandempirefordsales.com/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7PMnJYUGedQlDZMuegeCUT_0OBLPLbHNo2RwwnRuMIpU0nEpukOaBoCKlIQAvD_BwE"
+},
+
     {
         "id":42,
         "companyName": "TATA",
@@ -902,6 +912,7 @@
         "approx.Cost": " 3,29,83,630 Rs - 5,00,00,000 Rs",
         "website":"https://www.landrover.in/vehicles/new-range-rover/index.html"
     },
+
 {
         "id":39,
         "companyName": "ktm",
