@@ -214,7 +214,7 @@
         "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
    },
    {
-
+        
         "id":23,
         "companyName": "Toyota",
         "category": "Car",
@@ -258,6 +258,18 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+   }
+    ,
+      {
+        "id":22,
+        "companyName": "KTM",
+        "category": "BIKE",
+        "modelName":"KTM-RC 200",
+        "mileage": "30-35 kmpl",
+        "approx.Cost": "Rs.2.04Lankh - 2.17 Lakh*",
+        "website":"https://www.bikedekho.com/ktm/rc-200"
+   }
+=======
    },
     {
         "id":28,
@@ -563,6 +575,15 @@
         "mileage": "16.35 kmpl",
         "approx.Cost": "14.70-22.20 lakh Rs",
         "website":"https://www.cardekho.com/tata/harrier"
+        },
+     {
+        "id":60,
+        "companyName": "Mercedes-Benz",
+        "category": "Car",
+        "modelName":"G 350d 4Matic",
+        "mileage": "9kmpl",
+        "approx.Cost": "1.31 Cr Rs.",
+        "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
     }
 
 
