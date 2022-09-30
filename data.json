@@ -320,6 +320,14 @@
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
-
+{
+        "id":34,
+        "companyName": "Ford GT",
+        "category": "Car",
+        "modelName":"Ford GT40",
+        "mileage": "15kmpl",
+        "approx.Cost": "1.41 Cr Rs.",
+        "website":"https://www.ford.com/performance/gt/"
+    }
 
 ]
