@@ -884,6 +884,15 @@
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
    },
+    {
+        "id":42,
+        "companyName": "TATA",
+        "category": "Car",
+        "modelName":"Tata Blackbird",
+        "mileage": "17.4 kmpl",
+        "approx.Cost": "11 - 15 lakhs",
+        "website":"https://www.91wheels.com/cars/tata/blackbird"
+   },
  {
         "id":37,
         "companyName": "Land Rover",
