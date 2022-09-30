@@ -547,9 +547,36 @@
       "approx.Cost": "1.68 CrRs",
       "website":"https://www.cardekho.com/audi/e-tron-gt"
  },
-   {
+    {
+        "id":33,
+        "companyName": "maruti suzuki",
+        "category": "car",
+        "modelName":"850",
+        "mileage": "13kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
 
-      "id":30,
+    {
+       "id":34,
+        "companyName": "TATA",
+        "category": "Car",
+        "modelName":"Harrier",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.74 CrRs",
+        "website":"https://www.cardekho.com/tata/harrier"
+   },
+   {
+        "id":35,
+        "companyName": "Ford GT",
+        "category": "Car",
+        "modelName":"Ford GT40",
+        "mileage": "15kmpl",
+        "approx.Cost": "1.41 Cr Rs.",
+        "website":"https://www.ford.com/performance/gt/"
+    },
+{
+    "id":30,
       "companyName": "Corvette",
       "category": "Car",
       "modelName":"c8",
