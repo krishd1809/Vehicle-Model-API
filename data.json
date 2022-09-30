@@ -694,6 +694,45 @@
       "approx.Cost": "3 lakhs",
       "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
  },
+
+   {
+       "id":42,
+        "companyName": "Nano",
+        "category": "Car",
+        "modelName":"tata",
+        "mileage": "36.0 kmpl",
+        "approx.Cost": "3 lakhs",
+        "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
+   },
+
+    {
+        "id":43,
+        "companyName": "maruti suzuki",
+        "category": "car",
+        "modelName":"850",
+        "mileage": "13kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+    {
+       "id":44,
+        "companyName": "TATA",
+        "category": "Car",
+        "modelName":"Harrier",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.74 CrRs",
+        "website":"https://www.cardekho.com/tata/harrier"
+ },
+   {
+        "id":45,
+        "companyName": "Mahindra",
+        "category": "Truck",
+        "modelName":"Scorpio-N",
+        "mileage": "10kmpl",
+        "approx.Cost": "11-13 lakhs",
+        "website":"https://www.carwale.com/mahindra-cars/scorpio/"
+   },
+
   {
       "id":43,
       "companyName": "maruti suzuki",
@@ -857,6 +896,15 @@
       "approx .Cost" : "1.47 - 1.63 Lakh",
       "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz"
   },
+    {
+       "id":51,
+        "companyName": "BMW m3 competition",
+        "category": "Car",
+        "modelName":"M3",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "3.74 CrRs",
+        "website":"https://www.cardekho.com/bmw/m3"
+   } ,
   {
       "id":59,
       "companyName": "hyundai",
