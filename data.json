@@ -1045,4 +1045,13 @@
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
     }
-]
+
+{
+        "id": 64,
+        "companyName": "Toyota",
+        "category": "Car",
+        "modelName": "Fortuner",
+        "mileage": "10 kmpl",
+        "approx.Cost": "32.39-49.57 lakhs",
+        "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
+    }
