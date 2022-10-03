@@ -1044,5 +1044,14 @@
         "mileage": "18.9 kmpl",
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
+    },
+    {
+        "id":64,
+        "companyName": "Mercedes-Benz",
+        "category": "Car",
+        "modelName":"E 350d Diesel AMG Line",
+        "mileage": "9kmpl",
+        "approx.Cost": "1 Cr Rs.",
+        "website":"https://www.autocarindia.com/cars/mercedes-benz/e-class/e-350d-diesel-amg-line"
     }
 ]
