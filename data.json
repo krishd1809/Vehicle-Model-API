@@ -1044,5 +1044,14 @@
         "mileage": "18.9 kmpl",
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
-    }
+    }, 
+    {
+        "id":64,
+        "companyName": "Hyundai",
+        "category": "Car",
+        "modelName":"i20",
+        "mileage": "22kmpl",
+        "approx.Cost": "7.07-11.62 lakh Rs",
+        "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
+    },
 ]
