@@ -1044,5 +1044,14 @@
         "mileage": "18.9 kmpl",
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
+    },
+    {
+        "id":363,
+        "companyName": "OLA",
+        "category": "Bike",
+        "modelName":"Ola S1",
+        "mileage": "181 Km/Charge",
+        "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
+        "website":"https://olaelectric.com/"
     }
 ]
