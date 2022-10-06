@@ -1041,10 +1041,29 @@
         "companyName": "Hyundai",
         "category": "Car",
         "modelName": "Verna",
-        "mileage": "18.9 kmpl",
+        "mileage": "16.9 kmpl",
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
     },
+    
+    {
+
+        "id": 64,
+
+        "companyName": "Hyundai",
+
+        "category": "Sedan",
+
+        "modelName": "Elantra",
+
+        "mileage": "14.62 kmpl",
+
+        "approx.Cost": "15-21.13 lakhs",
+
+        "website": "https://www.cardekho.com/carmodels/Hyundai/Hyundai_Elantra?amp=1"
+
+    },
+    
     {
         "id":64,
         "companyName": "Mercedes-Benz",
