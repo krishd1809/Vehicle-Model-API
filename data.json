@@ -1053,5 +1053,33 @@
         "mileage": "9kmpl",
         "approx.Cost": "1 Cr Rs.",
         "website":"https://www.autocarindia.com/cars/mercedes-benz/e-class/e-350d-diesel-amg-line"
+     },
+     {
+        "id": 64,
+        "companyName": "Hero",
+        "category": "Bike",
+        "modelName": "Glamour XTEC",
+        "mileage": "60-65 kmpl",
+        "approx.Cost": "1.05 lakhs",
+        "website": "https://www.bikewale.com/hero-bikes/glamour-xtec/"
+    }, 
+    {
+        "id":64,
+        "companyName": "Hyundai",
+        "category": "Car",
+        "modelName":"i20",
+        "mileage": "22kmpl",
+        "approx.Cost": "7.07-11.62 lakh Rs",
+        "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
+    },
+    {
+        "id":363,
+        "companyName": "OLA",
+        "category": "Bike",
+        "modelName":"Ola S1",
+        "mileage": "181 Km/Charge",
+        "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
+        "website":"https://olaelectric.com/"
     }
+
 ]
