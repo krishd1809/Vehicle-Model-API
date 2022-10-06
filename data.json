@@ -1044,6 +1044,15 @@
         "mileage": "18.9 kmpl",
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
+    },
+    {
+        "id": 64,
+        "companyName": "Hero",
+        "category": "Bike",
+        "modelName": "Glamour XTEC",
+        "mileage": "60-65 kmpl",
+        "approx.Cost": "1.05 lakhs",
+        "website": "https://www.bikewale.com/hero-bikes/glamour-xtec/"
     }, 
     {
         "id":64,
