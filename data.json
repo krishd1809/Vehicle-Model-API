@@ -1054,4 +1054,14 @@
         "approx.Cost": "7.07-11.62 lakh Rs",
         "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
     },
+    {
+        "id":363,
+        "companyName": "OLA",
+        "category": "Bike",
+        "modelName":"Ola S1",
+        "mileage": "181 Km/Charge",
+        "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
+        "website":"https://olaelectric.com/"
+    }
+
 ]
