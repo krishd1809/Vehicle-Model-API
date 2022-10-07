@@ -1099,7 +1099,7 @@
         "mileage": "181 Km/Charge",
         "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
         "website":"https://olaelectric.com/"
-    }
+    },
 
 
 {
@@ -1110,7 +1110,16 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
-    }
+    },
     
+    {
+        "id": 65,
+        "companyName": "TVS",
+        "category": "moped",
+        "modelName": "luna",
+        "mileage": "80 kmpl",
+        "approx.Cost": "45,241 - 56,360 RS",
+        "website": "https://www.bikedekho.com/tvs/xl-100#pictureNewgallery"
+    }
 ]
 
